@@ -1,0 +1,9 @@
+{
+  "videos": {
+    "forceDownload": false,
+    "random": true,
+    "rootFolder": "movie/",
+    "rootPath": "mov/",
+    "server": "VidStreamer.js/0.1.4"
+  }
+}
